@@ -4,8 +4,8 @@ public class Q13 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Please enter the month ( i.e 1=January) day of the month and the year");
+       int M = sc.nextInt();
         int Q = sc.nextInt();
-        int M = sc.nextInt();
         int Y = sc.nextInt();
         int J = (Y / 100);
         int K = ( Y % 100);
