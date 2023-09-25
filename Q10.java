@@ -1,3 +1,5 @@
+package assign1;
+
 import java.util.Scanner;
 
 public class Q10 {
@@ -23,7 +25,5 @@ public class Q10 {
 
         }
 
-        // Close the Scanner
-        scanner.close();
     }
 }
